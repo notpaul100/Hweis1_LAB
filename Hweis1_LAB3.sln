@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hweis1_LAB3", "Hweis1_LAB3\Hweis1_LAB3.csproj", "{F0741E4B-2B9B-4DA1-9D98-86086E3DFCFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0741E4B-2B9B-4DA1-9D98-86086E3DFCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0741E4B-2B9B-4DA1-9D98-86086E3DFCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0741E4B-2B9B-4DA1-9D98-86086E3DFCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0741E4B-2B9B-4DA1-9D98-86086E3DFCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A12D2E22-02C4-48F6-8BBC-C48A92F45569}
+	EndGlobalSection
+EndGlobal
